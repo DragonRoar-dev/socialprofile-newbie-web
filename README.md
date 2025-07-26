@@ -16,6 +16,6 @@ What I learned
 This project was a great opportunity to practice my foundational web development skills. I focused on creating a clean and accessible HTML structure and then styling it with modern CSS techniques like Flexbox for layout and custom properties for a maintainable color scheme.
 
 Author
-GitHub - YourUsername
+GitHub - DragonRoar-dev
 
-Frontend Mentor - @yourusername
+Frontend Mentor - @DragonRoar-dev
